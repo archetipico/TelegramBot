@@ -1,0 +1,364 @@
+[
+    {
+        "character": "一",
+        "readings": {
+            "kun": [
+                ["ひと-", "hito-"]
+            ],
+            "on": [
+                ["イチ", "ichi"],
+                ["イツ", "itsu"]
+            ]
+        },
+        "meanings": [
+            "one",
+            "best",
+            "first",
+            "beginning",
+            "start"
+        ],
+        "examples": [
+            ["一月", ["いちがつ"], ["ichigatsu"], ["January"]],
+            ["一人", ["ひとり"], ["hitori"], ["one person"]],
+            ["均一", ["キンイツ"], ["kin'itsu"], ["equality"]],
+            ["一日", ["ついたち", "いちにち"], ["tsuitachi", "ichinichi"], ["first day of the month", "one day"]],
+            ["一部", ["いちぶ"], ["ichibu"], ["one part"]],
+            ["一番", ["いちばん"], ["ichiban"], ["number one"]],
+            ["一度", ["いちど"], ["ichido"], ["once"]],
+            ["統一", ["とういつ"], ["tōitsu"], ["unification"]]
+        ],
+        "details": {
+            "strokes": 1,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "Self-explanatory",
+            "mnemonic": "One stroke"
+        }
+    },
+    {
+        "character": "右",
+        "readings": {
+            "kun": [
+                ["みぎ", "migi"]
+            ],
+            "on": [
+                ["ウ", "u"],
+                ["ユウ", "yū"]
+            ]
+        },
+        "meanings": [
+            "right",
+            "foregoing"
+        ],
+        "examples": [
+            ["右手", ["みぎて", "うて"], ["migite", "ute"], ["right hand"]],
+            ["右側", ["みぎがわ"], ["migigawa"], ["right side"]],
+            ["右折", ["うせつ"], ["usetsu"], ["right turn"]],
+            ["右目", ["みぎめ"], ["migime"], ["right eye"]],
+            ["右足", ["みぎあし"], ["migiashi"], ["right leg"]],
+            ["左右", ["サユウ"], ["sayū"], ["control"]]
+        ],
+        "details": {
+            "strokes": 5,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "Stylized hand near a what it looks like a mouth",
+            "mnemonic": "Right arm raised with right hand highlighted"
+        }
+    },
+    {
+        "character": "雨",
+        "readings": {
+            "kun": [
+                ["あめ", "ame"],
+                ["あま-", "ama-"],
+                ["-さめ", "-same"]
+            ],
+            "on": [
+                ["ウ", "u"]
+            ]
+        },
+        "meanings": [
+            "rain"
+        ],
+        "examples": [
+            ["雨天", ["うてん"], ["uten"], ["rainy weather"]],
+            ["雨具", ["あまぐ", "うぐ", "あまぐる"], ["amagu", "ugu", "amaguru"], ["rain gear"]],
+            ["雨量", ["うりょう"], ["uryō"], ["amount of rainfall"]],
+            ["雨音", ["あまおと"], ["amaoto"], ["sound of rain"]],
+            ["雨傘", ["あまがさ"], ["amagasa"], ["umbrella"]],
+            ["雨宿り", ["あまやどり"], ["amayadori"], ["taking shelter from the rain"]]
+        ],
+        "details": {
+            "strokes": 8,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "Rain falling from the sky",
+            "mnemonic": "Raindrops on window"
+        }
+    },
+    {
+        "character": "円",
+        "readings": {
+            "kun": [
+                ["まど", "mado"],
+                ["まる", "maru"],
+                ["まる-い", "maru-i"],
+                ["まろ-か", "maro-ka"],
+                ["まろ-やか", "maro-yaka"]
+            ],
+            "on": [
+                ["エン", "en"]
+            ]
+        },
+        "meanings": [
+            "yen",
+            "circle",
+            "round"
+        ],
+        "examples": [
+            ["日本円", ["にほんえん"], ["nihon-en"], ["Japanese yen"]],
+            ["円形", ["えんけい"], ["enkei"], ["round shape"]],
+            ["千円札", ["せんえんさつ"], ["sen'en-satsu"], ["1000 yen bill"]],
+            ["円滑", ["えんかつ"], ["enkatsu"], ["smooth", "undisturbed"]],
+            ["円熟", ["えんじゅく"], ["enjuku"], ["maturity"]]
+        ],
+        "details": {
+            "strokes": 4,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "Modern simplified form of the coin ideogram",
+            "mnemonic": "Bank teller's window"
+        }
+    },
+    {
+        "character": "王",
+        "readings": {
+            "kun": [
+            ],
+            "on": [
+                ["オウ", "ō"]
+            ]
+        },
+        "meanings": [
+            "king",
+            "monarch",
+            "ruler"
+        ],
+        "examples": [
+            ["王", ["おう"], ["ō"], ["king"]],
+            ["国王", ["こくおう"], ["kokuō"], ["king of a country"]],
+            ["女王", ["じょおう"], ["joō"], ["queen"]],
+            ["王国", ["おうこく"], ["ōkoku"], ["kingdom"]],
+            ["王様", ["おうさま"], ["ōsama"], ["king (honorific)"]],
+            ["王座", ["おうざ"], ["ōza"], ["throne"]]
+        ],
+        "details": {
+            "strokes": 4,
+            "grade": 1,
+            "jlpt": "N3",
+            "origin": "Probably a jewel or a ritual blade",
+            "mnemonic": "Crown or throne"
+        }
+    },
+    {
+        "character": "音",
+        "readings": {
+            "kun": [
+                ["おと", "oto"],
+                ["ね", "ne"]
+            ],
+            "on": [
+                ["オン", "on"],
+                ["イン", "in"]
+            ]
+        },
+        "meanings": [
+            "sound",
+            "noise",
+            "musical note",
+            "fame"
+        ],
+        "examples": [
+            ["音楽", ["おんがく"], ["ongaku"], ["music"]],
+            ["音声", ["おんせい"], ["onsei"], ["voice"]],
+            ["音響", ["おんきょう"], ["onkyō"], ["echo"]],
+            ["音色", ["ねいろ"], ["neiro"], ["tone color", "timbre"]],
+            ["発音", ["はつおん"], ["hatsuon"], ["pronunciation"]],
+            ["音量", ["おんりょう"], ["onryō"], ["volume (of sound)"]]
+        ],
+        "details": {
+            "strokes": 9,
+            "grade": 1,
+            "jlpt": "N4",
+            "origin": "Probably a depiction of a prayer",
+            "mnemonic": "Angry shout face"
+        }
+    },
+    {
+        "character": "下",
+        "readings": {
+            "kun": [
+                ["した", "shita"],
+                ["しも", "shimo"],
+                ["もと", "moto"]
+            ],
+            "on": [
+                ["カ", "ka"],
+                ["ゲ", "ge"]
+            ]
+        },
+        "meanings": [
+            "below",
+            "down",
+            "under",
+            "descend",
+            "inferior",
+            "give"
+        ],
+        "examples": [
+            ["下", ["した", "ゲ", "しも"], ["shita", "ge", "shimo"], ["below", "inferiority", "urine"]],
+            ["上下", ["じょうげ"], ["jōge"], ["up and down"]],
+            ["地下", ["ちか"], ["chika"], ["underground"]],
+            ["下水", ["げすい"], ["gesui"], ["sewage"]],
+            ["下降", ["かこう"], ["kakō"], ["descent"]],
+            ["下落", ["げらく"], ["geraku"], ["fall"]],
+            ["下書き", ["したがき"], ["shitagaki"], ["draft"]],
+            ["下町", ["したまち"], ["shitamachi"], ["downtown"]]
+        ],
+        "details": {
+            "strokes": 3,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "Opposite of 上 (up)",
+            "mnemonic": "Being below the bar"
+        }
+    },
+    {
+        "character": "火",
+        "readings": {
+            "kun": [
+                ["ひ", "hi"],
+                ["-び", "-bi"]
+            ],
+            "on": [
+                ["カ", "ka"]
+            ]
+        },
+        "meanings": [
+            "fire"
+        ],
+        "examples": [
+            ["火", ["ひ", "か"], ["hi", "ka"], ["fire", "Tuesday"]],
+            ["火山", ["かざん"], ["kazan"], ["volcano"]],
+            ["火曜日", ["かようび"], ["kayōbi"], ["Tuesday"]],
+            ["火花", ["ひばな"], ["hibana"], ["spark"]],
+            ["花火", ["はなび"], ["hanabi"], ["fireworks"]],
+            ["消火器", ["しょうかき"], ["shōkaki"], ["fire extinguisher"]],
+            ["火災", ["かさい"], ["kasai"], ["conflagration"]]
+        ],
+        "details": {
+            "strokes": 4,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "Burning fire",
+            "mnemonic": "Stylized bonefire"
+        }
+    },
+    {
+        "character": "花",
+        "readings": {
+            "kun": [
+                ["はな", "hana"]
+            ],
+            "on": [
+                ["カ", "ka"]
+            ]
+        },
+        "meanings": [
+            "flower",
+            "blossom"
+        ],
+        "examples": [
+            ["花", ["はな"], ["hana"], ["flower", "beauty"]],
+            ["花弁", ["かべん"], ["kaben"], ["petal"]],
+            ["花束", ["はなたば"], ["hanataba"], ["bouquet"]],
+            ["花見", ["はなみ"], ["hanami"], ["flower viewing"]],
+            ["花瓶", ["かびん"], ["kabin"], ["flower vase"]],
+            ["花火", ["はなび"], ["hanabi"], ["fireworks"]],
+            ["花粉", ["かふん"], ["kafun"], ["pollen"]],
+            ["花園", ["はなぞの"], ["hanazono"], ["flower garden"]]
+        ],
+        "details": {
+            "strokes": 7,
+            "grade": 1,
+            "jlpt": "N4",
+            "origin": "The upper part is the abbreviation for 'plant' while the lower part means 'change'",
+            "mnemonic": "Rain on two trees gives blossoms"
+        }
+    },
+    {
+        "character": "貝",
+        "readings": {
+            "kun": [
+                ["かい", "kai"],
+                ["がい", "gai"]
+            ],
+            "on": [
+                ["バイ", "bai"]
+            ]
+        },
+        "meanings": [
+            "shellfish",
+            "shell"
+        ],
+        "examples": [
+            ["貝", ["かい"], ["kai"], ["shellfish", "shell"]],
+            ["貝殻", ["かいがら"], ["kaigara"], ["seashell"]],
+            ["貝貨", ["かいか"], ["kaika"], ["shell money"]],
+            ["二枚貝", ["にまいがい"], ["nimaigai"], ["bivalve"]],
+            ["貝殻採集", ["かいがらさいしゅう"], ["kaigarasaishū"], ["shell collecting"]]
+        ],
+        "details": {
+            "strokes": 7,
+            "grade": 2,
+            "jlpt": "N3",
+            "origin": "Depiction of a bivalve shell",
+            "mnemonic": "Boxed sea comb"
+        }
+    },
+    {
+        "character": "学",
+        "readings": {
+            "kun": [
+                ["まなぶ", "manabu"]
+            ],
+            "on": [
+                ["ガク", "gaku"]
+            ]
+        },
+        "meanings": [
+            "study",
+            "learning",
+            "science",
+            "knowledge",
+            "-ology"
+        ],
+        "examples": [
+            ["学校", ["がっこう"], ["gakkō"], ["school"]],
+            ["学生", ["がくせい"], ["gakusei"], ["student"]],
+            ["大学", ["だいがく"], ["daigaku"], ["university", "college"]],
+            ["学問", ["がくもん"], ["gakumon"], ["learning", "study"]],
+            ["研究", ["けんきゅう"], ["kenkyū"], ["research", "study"]],
+            ["学期", ["がっき"], ["gakki"], ["school term"]],
+            ["学術", ["がくじゅつ"], ["gakujutsu"], ["learning", "scholarship"]]
+        ],
+        "details": {
+            "strokes": 8,
+            "grade": 1,
+            "jlpt": "N5",
+            "origin": "It is the union of different radicals that give the meaning of something like 'The roof under wich help and child are connected'",
+            "mnemonic": "A child 子 learning under a roof 冖"
+        }
+    }
+]

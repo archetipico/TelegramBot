@@ -1,0 +1,10 @@
+__pycache__/
+orders/__pycache__/
+orders/utility/admins
+orders/utility/coco.names
+orders/utility/mali
+orders/utility/superadmins
+orders/utility/secrets
+orders/utility/usage.csv
+orders/utility/yolov4-tiny.*
+out
